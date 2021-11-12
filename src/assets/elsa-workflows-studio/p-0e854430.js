@@ -1,0 +1,1 @@
+import"./p-25ed19bb.js";import{a as t}from"./p-bdae1cb5.js";import"./p-4bdcf3f8.js";async function a(a,n){const o=n.options;let r=[];return r=o&&o.runtimeSelectListItemsProviderType?await async function(a,n){const o=await t(a);return await o.designerApi.runtimeSelectItemsApi.get(n.runtimeSelectListItemsProviderType,n.context||{})}(a,o):o||[],r||[]}export{a as g}

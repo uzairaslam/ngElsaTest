@@ -1,0 +1,1 @@
+var n,t;!function(n){n[n.Edit=0]="Edit",n[n.Instance=1]="Instance",n[n.Blueprint=2]="Blueprint"}(n||(n={})),function(n){n[n.Horizontal=0]="Horizontal",n[n.Vertical=1]="Vertical"}(t||(t={}));export{t as L,n as W}
